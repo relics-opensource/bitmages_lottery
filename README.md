@@ -1,0 +1,1 @@
+# bitmages_lottery
